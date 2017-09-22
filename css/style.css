@@ -2,18 +2,18 @@
 	margin: 2px;
 	box-sizing: border-box;
 }/*'star' apply settings for all elements*/
-
-.p1 {
-	color:blue;
+body{
+	background-color: #160A49;
+	font-family:  'Jaldi','Yantramanav','Arial', sans-serif;
 }
-.p2{
-	color: green;
+h2{
+	color: #AEA5E8;
 }
-h1 {
-	color: maroon;
+p{
+	color: #CAC7F5;
 }
 #id1{
-	color: brown;
+	color: #CAC7F5;
 }
 a:active{
 	color: red;
@@ -24,4 +24,16 @@ a:active{
 	color: white; /* Белый цвет текста */
 	font-size: 2em; /* Размер надписи */
 
+}
+.header{
+	font-size: 20pt;
+	text-align: justify;
+    letter-spacing: 1px;
+    height: 2em;
+    padding: 2em 10%;
+    background: #7F7895;
+    color: #fff;
+    
+
+	
 }
