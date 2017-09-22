@@ -1,0 +1,27 @@
+*{
+	margin: 2px;
+	box-sizing: border-box;
+}/*'star' apply settings for all elements*/
+
+.p1 {
+	color:blue;
+}
+.p2{
+	color: green;
+}
+h1 {
+	color: maroon;
+}
+#id1{
+	color: brown;
+}
+a:active{
+	color: red;
+	font-size: 18px;
+}
+.shadowtext{
+	text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+	color: white; /* Белый цвет текста */
+	font-size: 2em; /* Размер надписи */
+
+}
